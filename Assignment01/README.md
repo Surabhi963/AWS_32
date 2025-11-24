@@ -33,7 +33,8 @@ This assignment focuses on designing and deploying a cloud-native architecture t
 
 ## 🗺️ Infrastructure Diagram
 
-![alt text](./images/image.png)
+<img width="657" height="582" alt="image" src="https://github.com/user-attachments/assets/6baede54-1324-41d1-8aed-8edaface0caa" />
+
 
 🧩 Step-by-Step Implementation Plan
 1️⃣ VPC Setup
@@ -104,15 +105,20 @@ Monitoring	CloudWatch
 Application	Spring 3 Hibernate
 🏁 Outcome
 
-![alt text](./images/image-1.png)
+<img width="1452" height="756" alt="image" src="https://github.com/user-attachments/assets/04c5fbba-c773-4265-bfaa-1c3fefc9fe64" />
 
-![alt text](./images/image-2.png)
 
-![alt text](./images/image-3.png)
+<img width="1442" height="387" alt="image" src="https://github.com/user-attachments/assets/44b16985-42cc-4a09-8874-d00272f276ab" />
 
-![alt text](./images/image-4.png)
 
-![alt text](./images/image-5.png)
+<img width="1447" height="722" alt="image" src="https://github.com/user-attachments/assets/bff4c6ee-e910-49ce-bd91-de751b38c620" />
+
+
+<img width="1450" height="757" alt="image" src="https://github.com/user-attachments/assets/c0840bbc-752c-4e78-9ba7-9990833f506d" />
+
+
+<img width="1448" height="772" alt="image" src="https://github.com/user-attachments/assets/aed63a0b-22f9-45e3-87d8-37762024f7dd" />
+
 
 
 
